@@ -1,0 +1,201 @@
+patient_id,age,gender,diagnosis_code,diagnosis_description,diagnosis_date
+P401,50,Female,E234,Epilepsy,2024-07-09
+P402,40,Female,B234,Bronchitis,2024-07-09
+P403,50,Male,E234,Epilepsy,2024-07-09
+P404,50,Female,R901,Rheumatoid Arthritis,2024-07-09
+P405,44,Male,I456,Irritable Bowel Syndrome,2024-07-09
+P406,33,Male,D123,Diabetes,2024-07-09
+P407,64,Male,D123,Diabetes,2024-07-09
+P408,61,Female,D123,Diabetes,2024-07-09
+P409,50,Male,C345,Cancer,2024-07-09
+P410,68,Male,R901,Rheumatoid Arthritis,2024-07-09
+P411,40,Female,M678,Malaria,2024-07-09
+P412,41,Female,L012,Lung Cancer,2024-07-09
+P413,48,Male,M678,Malaria,2024-07-09
+P414,45,Female,H234,High Blood Pressure,2024-07-09
+P415,42,Female,E234,Epilepsy,2024-07-09
+P416,65,Male,C345,Cancer,2024-07-09
+P417,40,Male,D567,Dementia,2024-07-09
+P418,54,Male,D123,Diabetes,2024-07-09
+P419,43,Female,P678,Parkinson's Disease,2024-07-09
+P420,57,Female,C345,Cancer,2024-07-09
+P421,49,Male,T789,Thyroid Disorder,2024-07-09
+P422,58,Female,H789,Heart Disease,2024-07-09
+P423,65,Male,H789,Heart Disease,2024-07-09
+P424,53,Female,T789,Thyroid Disorder,2024-07-09
+P425,59,Male,D567,Dementia,2024-07-09
+P426,46,Male,D123,Diabetes,2024-07-09
+P427,51,Female,R901,Rheumatoid Arthritis,2024-07-09
+P428,57,Female,D123,Diabetes,2024-07-09
+P429,33,Male,P678,Parkinson's Disease,2024-07-09
+P430,58,Male,T789,Thyroid Disorder,2024-07-09
+P431,44,Female,B234,Bronchitis,2024-07-09
+P432,32,Male,D567,Dementia,2024-07-09
+P433,37,Female,I456,Irritable Bowel Syndrome,2024-07-09
+P434,64,Female,C345,Cancer,2024-07-09
+P435,31,Male,I456,Irritable Bowel Syndrome,2024-07-09
+P436,68,Male,A456,Asthma,2024-07-09
+P437,31,Female,D567,Dementia,2024-07-09
+P438,31,Male,D123,Diabetes,2024-07-09
+P439,38,Female,D123,Diabetes,2024-07-09
+P440,62,Female,S901,Stroke,2024-07-09
+P441,50,Male,H234,High Blood Pressure,2024-07-09
+P442,45,Male,B234,Bronchitis,2024-07-09
+P443,52,Female,S901,Stroke,2024-07-09
+P444,32,Female,H234,High Blood Pressure,2024-07-09
+P445,66,Female,T789,Thyroid Disorder,2024-07-09
+P446,57,Male,D567,Dementia,2024-07-09
+P447,36,Male,M678,Malaria,2024-07-09
+P448,32,Male,T789,Thyroid Disorder,2024-07-09
+P449,43,Male,R901,Rheumatoid Arthritis,2024-07-09
+P450,67,Female,D123,Diabetes,2024-07-09
+P451,50,Male,A456,Asthma,2024-07-09
+P452,61,Male,S901,Stroke,2024-07-09
+P453,62,Female,D123,Diabetes,2024-07-09
+P454,50,Female,C345,Cancer,2024-07-09
+P455,42,Male,M678,Malaria,2024-07-09
+P456,52,Female,D123,Diabetes,2024-07-09
+P457,48,Male,R901,Rheumatoid Arthritis,2024-07-09
+P458,68,Female,H789,Heart Disease,2024-07-09
+P459,62,Female,R901,Rheumatoid Arthritis,2024-07-09
+P460,47,Female,H789,Heart Disease,2024-07-09
+P461,59,Female,M678,Malaria,2024-07-09
+P462,50,Male,H789,Heart Disease,2024-07-09
+P463,35,Female,H789,Heart Disease,2024-07-09
+P464,32,Male,H234,High Blood Pressure,2024-07-09
+P465,40,Female,C345,Cancer,2024-07-09
+P466,31,Female,D123,Diabetes,2024-07-09
+P467,46,Male,I456,Irritable Bowel Syndrome,2024-07-09
+P468,65,Male,H789,Heart Disease,2024-07-09
+P469,63,Female,E234,Epilepsy,2024-07-09
+P470,62,Male,A456,Asthma,2024-07-09
+P471,30,Female,E234,Epilepsy,2024-07-09
+P472,53,Male,H234,High Blood Pressure,2024-07-09
+P473,66,Male,C345,Cancer,2024-07-09
+P474,56,Male,M678,Malaria,2024-07-09
+P475,66,Male,M678,Malaria,2024-07-09
+P476,33,Female,L012,Lung Cancer,2024-07-09
+P477,46,Male,H789,Heart Disease,2024-07-09
+P478,58,Female,D123,Diabetes,2024-07-09
+P479,52,Male,A456,Asthma,2024-07-09
+P480,52,Male,E234,Epilepsy,2024-07-09
+P481,53,Female,S901,Stroke,2024-07-09
+P482,64,Male,P678,Parkinson's Disease,2024-07-09
+P483,65,Male,M678,Malaria,2024-07-09
+P484,31,Female,R901,Rheumatoid Arthritis,2024-07-09
+P485,61,Male,R901,Rheumatoid Arthritis,2024-07-09
+P486,36,Male,D567,Dementia,2024-07-09
+P487,41,Female,I456,Irritable Bowel Syndrome,2024-07-09
+P488,69,Male,S901,Stroke,2024-07-09
+P489,50,Male,I456,Irritable Bowel Syndrome,2024-07-09
+P490,56,Male,B234,Bronchitis,2024-07-09
+P491,62,Male,D123,Diabetes,2024-07-09
+P492,66,Male,P678,Parkinson's Disease,2024-07-09
+P493,32,Female,P678,Parkinson's Disease,2024-07-09
+P494,58,Male,R901,Rheumatoid Arthritis,2024-07-09
+P495,35,Female,M678,Malaria,2024-07-09
+P496,51,Male,E234,Epilepsy,2024-07-09
+P497,51,Male,P678,Parkinson's Disease,2024-07-09
+P498,56,Male,C345,Cancer,2024-07-09
+P499,64,Female,T789,Thyroid Disorder,2024-07-09
+P500,49,Female,P678,Parkinson's Disease,2024-07-09
+P501,49,Male,A456,Asthma,2024-07-09
+P502,63,Male,S901,Stroke,2024-07-09
+P503,58,Male,L012,Lung Cancer,2024-07-09
+P504,70,Female,P678,Parkinson's Disease,2024-07-09
+P505,60,Female,A456,Asthma,2024-07-09
+P506,65,Female,S901,Stroke,2024-07-09
+P507,56,Male,H234,High Blood Pressure,2024-07-09
+P508,65,Female,S901,Stroke,2024-07-09
+P509,30,Male,D567,Dementia,2024-07-09
+P510,67,Female,D123,Diabetes,2024-07-09
+P511,63,Female,B234,Bronchitis,2024-07-09
+P512,43,Male,H789,Heart Disease,2024-07-09
+P513,67,Female,P678,Parkinson's Disease,2024-07-09
+P514,36,Male,A456,Asthma,2024-07-09
+P515,46,Female,H234,High Blood Pressure,2024-07-09
+P516,53,Female,H789,Heart Disease,2024-07-09
+P517,44,Male,A456,Asthma,2024-07-09
+P518,52,Female,D567,Dementia,2024-07-09
+P519,56,Male,E234,Epilepsy,2024-07-09
+P520,66,Male,D123,Diabetes,2024-07-09
+P521,43,Female,T789,Thyroid Disorder,2024-07-09
+P522,32,Female,P678,Parkinson's Disease,2024-07-09
+P523,69,Female,P678,Parkinson's Disease,2024-07-09
+P524,58,Female,T789,Thyroid Disorder,2024-07-09
+P525,35,Female,P678,Parkinson's Disease,2024-07-09
+P526,55,Female,H234,High Blood Pressure,2024-07-09
+P527,50,Male,H789,Heart Disease,2024-07-09
+P528,33,Male,P678,Parkinson's Disease,2024-07-09
+P529,54,Female,E234,Epilepsy,2024-07-09
+P530,68,Male,S901,Stroke,2024-07-09
+P531,37,Male,A456,Asthma,2024-07-09
+P532,58,Female,R901,Rheumatoid Arthritis,2024-07-09
+P533,59,Female,I456,Irritable Bowel Syndrome,2024-07-09
+P534,30,Male,L012,Lung Cancer,2024-07-09
+P535,33,Male,R901,Rheumatoid Arthritis,2024-07-09
+P536,35,Female,H789,Heart Disease,2024-07-09
+P537,66,Female,B234,Bronchitis,2024-07-09
+P538,67,Male,D123,Diabetes,2024-07-09
+P539,65,Female,C345,Cancer,2024-07-09
+P540,41,Female,D567,Dementia,2024-07-09
+P541,66,Female,B234,Bronchitis,2024-07-09
+P542,38,Male,M678,Malaria,2024-07-09
+P543,67,Male,C345,Cancer,2024-07-09
+P544,52,Male,E234,Epilepsy,2024-07-09
+P545,58,Male,L012,Lung Cancer,2024-07-09
+P546,38,Female,H234,High Blood Pressure,2024-07-09
+P547,65,Female,D123,Diabetes,2024-07-09
+P548,62,Female,M678,Malaria,2024-07-09
+P549,49,Male,S901,Stroke,2024-07-09
+P550,51,Male,C345,Cancer,2024-07-09
+P551,68,Male,M678,Malaria,2024-07-09
+P552,35,Female,D123,Diabetes,2024-07-09
+P553,51,Male,T789,Thyroid Disorder,2024-07-09
+P554,47,Male,M678,Malaria,2024-07-09
+P555,43,Male,E234,Epilepsy,2024-07-09
+P556,54,Female,H789,Heart Disease,2024-07-09
+P557,41,Male,S901,Stroke,2024-07-09
+P558,52,Male,B234,Bronchitis,2024-07-09
+P559,42,Female,H234,High Blood Pressure,2024-07-09
+P560,36,Female,M678,Malaria,2024-07-09
+P561,50,Male,H234,High Blood Pressure,2024-07-09
+P562,47,Female,C345,Cancer,2024-07-09
+P563,70,Male,C345,Cancer,2024-07-09
+P564,68,Male,L012,Lung Cancer,2024-07-09
+P565,37,Male,C345,Cancer,2024-07-09
+P566,63,Female,D123,Diabetes,2024-07-09
+P567,38,Female,R901,Rheumatoid Arthritis,2024-07-09
+P568,61,Male,S901,Stroke,2024-07-09
+P569,40,Female,T789,Thyroid Disorder,2024-07-09
+P570,40,Female,R901,Rheumatoid Arthritis,2024-07-09
+P571,55,Female,S901,Stroke,2024-07-09
+P572,42,Female,C345,Cancer,2024-07-09
+P573,44,Female,P678,Parkinson's Disease,2024-07-09
+P574,41,Female,S901,Stroke,2024-07-09
+P575,57,Male,A456,Asthma,2024-07-09
+P576,52,Male,E234,Epilepsy,2024-07-09
+P577,44,Female,D123,Diabetes,2024-07-09
+P578,61,Female,T789,Thyroid Disorder,2024-07-09
+P579,54,Male,E234,Epilepsy,2024-07-09
+P580,48,Male,L012,Lung Cancer,2024-07-09
+P581,35,Male,D567,Dementia,2024-07-09
+P582,45,Male,T789,Thyroid Disorder,2024-07-09
+P583,42,Male,L012,Lung Cancer,2024-07-09
+P584,43,Female,B234,Bronchitis,2024-07-09
+P585,46,Male,E234,Epilepsy,2024-07-09
+P586,38,Female,B234,Bronchitis,2024-07-09
+P587,30,Female,D123,Diabetes,2024-07-09
+P588,59,Male,A456,Asthma,2024-07-09
+P589,65,Female,E234,Epilepsy,2024-07-09
+P590,31,Female,R901,Rheumatoid Arthritis,2024-07-09
+P591,66,Female,S901,Stroke,2024-07-09
+P592,40,Male,D567,Dementia,2024-07-09
+P593,34,Female,B234,Bronchitis,2024-07-09
+P594,58,Female,I456,Irritable Bowel Syndrome,2024-07-09
+P595,50,Female,C345,Cancer,2024-07-09
+P596,56,Male,P678,Parkinson's Disease,2024-07-09
+P597,59,Female,D567,Dementia,2024-07-09
+P598,33,Female,T789,Thyroid Disorder,2024-07-09
+P599,66,Male,H789,Heart Disease,2024-07-09
+P600,37,Male,H234,High Blood Pressure,2024-07-09
